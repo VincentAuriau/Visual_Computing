@@ -1,1 +1,1 @@
-Visual_Computing
+Visual_Computing Class Projects
